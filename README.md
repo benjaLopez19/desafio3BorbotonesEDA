@@ -13,3 +13,4 @@ Se creó tambien un modelo de clasificación de perceptrón multicapa de la bibl
 
 
 #un link a la presentación en video.
+https://www.youtube.com/watch?v=muwTMlCuBzQ 
