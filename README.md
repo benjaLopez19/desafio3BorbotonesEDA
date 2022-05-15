@@ -11,6 +11,5 @@ Una vez los modelos son creados a partir del set de datos de entrenamiento se pr
 En última instancia se hace una prueba final del modelo creado y entrenado para cuantificar la medidad de precisión de la red a la hora de clasificar tuplas nuevas de datos.
 Se creó tambien un modelo de clasificación de perceptrón multicapa de la biblioteca scikit learn con una estructura similar a la de los dos anteriores (todo dentro de lo que el modelo permite ser ajustado) para tener una idea de los resultados en otro tipo de instancias de redes neuronales. 
 
-
-#un link a la presentación en video.
+Link del video de la presentación:
 https://www.youtube.com/watch?v=muwTMlCuBzQ 
